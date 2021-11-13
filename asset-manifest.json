@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/planolive/static/css/main.60a5efb3.chunk.css",
+    "main.js": "/planolive/static/js/main.b702390c.chunk.js",
+    "main.js.map": "/planolive/static/js/main.b702390c.chunk.js.map",
+    "runtime-main.js": "/planolive/static/js/runtime-main.4ff265e4.js",
+    "runtime-main.js.map": "/planolive/static/js/runtime-main.4ff265e4.js.map",
+    "static/js/2.3be3aebf.chunk.js": "/planolive/static/js/2.3be3aebf.chunk.js",
+    "static/js/2.3be3aebf.chunk.js.map": "/planolive/static/js/2.3be3aebf.chunk.js.map",
+    "static/js/3.ca5af8b8.chunk.js": "/planolive/static/js/3.ca5af8b8.chunk.js",
+    "static/js/3.ca5af8b8.chunk.js.map": "/planolive/static/js/3.ca5af8b8.chunk.js.map",
+    "index.html": "/planolive/index.html",
+    "static/css/main.60a5efb3.chunk.css.map": "/planolive/static/css/main.60a5efb3.chunk.css.map",
+    "static/js/2.3be3aebf.chunk.js.LICENSE.txt": "/planolive/static/js/2.3be3aebf.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4ff265e4.js",
+    "static/js/2.3be3aebf.chunk.js",
+    "static/css/main.60a5efb3.chunk.css",
+    "static/js/main.b702390c.chunk.js"
+  ]
+}
